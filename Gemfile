@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#Masonry
+gem 'masonry-rails'
 #foundation 
 gem 'foundation-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

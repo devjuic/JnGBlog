@@ -12,8 +12,13 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery
 //= require foundation
-//= require turbolinks
+//= require blog_posts
+//= require masonry/masonry.min
+//= require masonry/jquery.event-drag
+//= require masonry/jquery.imagesloaded.min
+//= require masonry/jquery.infinitescroll.min
+//= require masonry/modernizr-transitions
 //= require_tree .
 
-$(function(){ $(document).foundation(); });
